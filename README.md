@@ -26,3 +26,4 @@ I'm a junior developer hungry for evolution!
   <a href ="mailto:contatodanielbrittovallada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  </div>
+ <div><img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"><div/>
